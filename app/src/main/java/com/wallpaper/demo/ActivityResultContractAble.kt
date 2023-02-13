@@ -1,0 +1,5 @@
+package com.wallpaper.demo
+
+
+// 一个标志, 表示activity启用了ActivityResultContract方式替代onActivityResult
+interface ActivityResultContractAble
